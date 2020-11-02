@@ -6,6 +6,8 @@
 
 > This is the link ->> [ChromeDriver](https://chromedriver.chromium.org/)
 
+> Check the version of chrome before downloading the chrome driver.
+
 ### Requirements
 
 - Python
